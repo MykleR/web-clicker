@@ -16,3 +16,6 @@ Here is a simple clicker made in html, css &amp; javascript
 ## Setup
 * Download zip, fork or clone.
 * run index.html
+
+
+![Screenshot Image](https://github.com/MykleCode/web-clicker/img/screenshot.png)
