@@ -17,5 +17,5 @@ Here is a simple clicker made in html, css &amp; javascript
 * Download zip, fork or clone.
 * run index.html
 
-
+## Screenshot Example
 ![Screenshot Image](https://github.com/MykleCode/web-clicker/blob/master/img/screenshot.png)
