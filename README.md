@@ -18,4 +18,4 @@ Here is a simple clicker made in html, css &amp; javascript
 * run index.html
 
 
-![Screenshot Image](https://github.com/MykleCode/web-clicker/img/screenshot.png)
+![Screenshot Image](https://github.com/MykleCode/web-clicker/blob/master/img/screenshot.png)
